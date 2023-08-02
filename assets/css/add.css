@@ -22,16 +22,8 @@
   margin-top: .5rem;
 }
 
-.workarea + .workarea{
+.workarea{
   margin-top: 1.5rem;
-}
-
-.workarea:first-child{
-  padding-top: 1rem;
-}
-
-.workarea:last-child{
-  padding-bottom: 2rem;
 }
 
 h3{
